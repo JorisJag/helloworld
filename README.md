@@ -2,9 +2,10 @@
 <html>
 <title>Portfolio Joris Jager</title>
 <body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
+<img src="img_girl.jpg" width="200" height="400
+">
+<h1>Joris Jager</h1>
+<p>I am Joris and I am born in Enschede. I live in Neede. Neede is a small village in the Achterhoek. I currently study Creative Technology at the University of Twente.</p>
+<p>On this page I am going to upload my portfolio and a blog.</p>
 </body>
 </html>

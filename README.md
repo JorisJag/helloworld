@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <title>Portfolio Joris Jager</title>
-<body>
+<body bgcolor="#E6E6FA">
 <img src="img_girl.jpg" width="200" height="400
 ">
 <h1>Joris Jager</h1>
